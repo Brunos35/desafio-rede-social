@@ -9,3 +9,9 @@ iframe{
     height: 500px;
     width: 500px;
 }
+
+a>img{
+    position: top right;
+    width: 20px;
+    height: 10px;
+}
