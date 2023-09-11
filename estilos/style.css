@@ -37,6 +37,14 @@ section#redes-sociais{
     text-align: right;
 }
 
+section#redes-soiais a{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 627px;
+    width: 311px;
+}
 
 section#redes-sociais img{
     width: 50px;
